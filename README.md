@@ -22,7 +22,7 @@ Firewall is a full-featured Windows Firewall manager built on .NET 8 (WinForms).
 
 | Feature | Description |
 |---|---|
-| **Rule Management** | Add, remove and view inbound block/allow rules by IP, port and protocol |
+| **Rule Managements** | Add, remove and view inbound block/allow rules by IP, port and protocol |
 | **Timed Rules** | Rules that automatically expire after a configurable duration |
 | **Rule Profiles** | Save and load named rule sets (Default, Lab, Game, …) |
 | **ICMP Auto-Block** | Background engine that auto-blocks IPs exceeding a ping flood threshold |
