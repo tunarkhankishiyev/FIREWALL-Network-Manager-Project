@@ -230,8 +230,7 @@ Firewall-Commercial V1.0/
 │   ├── app.js                        — Vanilla JS frontend logic
 │   └── style.css                     — Dark cyber theme CSS
 │
-├── FIX/                              — Patch notes & hotfix logs
-│   └── fixes_2026-03-05_web.txt
+|
 │
 ├── bin/Debug/net8.0-windows/         — Build output (not committed)
 │   ├── Firewall.exe                  — Application executable
