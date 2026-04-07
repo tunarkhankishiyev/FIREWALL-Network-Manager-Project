@@ -47,7 +47,6 @@ The desktop app is built with **WinForms on .NET 8** and requires **Windows** wi
 
 > Dark theme · Cyber Command Center palette
 
-///////
 <img width="400" height="518" alt="App-Log_in" src="https://github.com/user-attachments/assets/60b35398-0358-4d56-a39f-1a668eec79b5" />
 <img width="400" height="836" alt="Admin-Rules" src="https://github.com/user-attachments/assets/7c8c770b-288b-4cc0-892a-4c1640bdaaa8" />
 <img width="400" height="840" alt="Admin-Packet_test" src="https://github.com/user-attachments/assets/2ea0fb48-5315-441d-b78e-41832aaeba85" />
